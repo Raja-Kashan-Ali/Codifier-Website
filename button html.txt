@@ -1,0 +1,1 @@
+<a href="#contact" class="btn-get-started scrollto">CONTACT US</a>  
